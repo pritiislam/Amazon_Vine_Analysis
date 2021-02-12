@@ -1,7 +1,8 @@
 # Amazon_Vine_Analysis
 AWS/ Postgres/ ETL
 
-Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis
+The purpose of this analysis is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine Program 
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
